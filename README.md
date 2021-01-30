@@ -6,7 +6,7 @@ This project is the localization project of the Udacity Robotics Software Engine
 
 ## Installation & Build
 ### ROS Melodic
-The project was developed on Ubuntu 18.04 LTS with [ROS Melodic](http://wiki.ros.org/melodic), [Gazebo](http://gazebosim.org/) and [catkin](http://wiki.ros.org/catkin) installed.
+The project was developed on Ubuntu 18.04 LTS with [ROS Melodic](http://wiki.ros.org/melodic), [Gazebo](http://gazebosim.org/) and [catkin](http://wiki.ros.org/catkin) installed. However it should also work with Ubuntu 16.04 and ROS Kinetic.
 
 ### Dependencies
 The robot relies on the ``amcl``, ``navigation_stack`` and ``move_base`` ROS packages, which should be installed through ``apt-get``.
